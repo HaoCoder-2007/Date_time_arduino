@@ -5,8 +5,8 @@
 
 TFT_eSPI tft = TFT_eSPI(); 
 
-const char* ssid     = "LAB";
-const char* password = "trangia160@";
+const char* ssid     = "/your wifi name/";
+const char* password = "/your wifi password/";
 
 const char* ntpServer = "pool.ntp.org";
 const long  gmtOffset_sec = 7 * 3600;
